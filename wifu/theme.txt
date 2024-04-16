@@ -6,7 +6,7 @@ terminal-font: "Terminus Regular 14"
 terminal-box: "terminal_*.png"
 
 + label {
-  text="Loader Evil"
+  text="Louder Evil"
   font = "Poppins Regular 48"
   color="#99C6FF"
   left = 50%-200
